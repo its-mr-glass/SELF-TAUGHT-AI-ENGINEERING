@@ -41,6 +41,7 @@ print(f"Your land {acres} sold")
 # Contains confermations: True or False
 is_student = False
 is_self_taught = True 
+finish_self_taught = False
 
 print(f"Are you a student?: {is_student}")
 print(f"Are you are on a self taught AI Journey?: {is_self_taught}")
