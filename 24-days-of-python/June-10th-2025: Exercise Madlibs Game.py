@@ -1,4 +1,4 @@
-print("June-10th-2025: Exercise Madlibs Game")
+print("June-10th-2025: Exercise: Madlibs Game")
 
 adjective1 = input("Enter an adjective: ") # an adjective explains the quality of a thing eg.(fast, slow, suspeciaus)
 noun = input("Enter a noun: ")# a noun is a name, place or a thing eg(mark zuckerburg, cow, Diddy)
